@@ -1,5 +1,5 @@
 # oddEven
-Simple lightweight Python script to determineif number is odd or even.
+Simple lightweight Python script to determine if number is odd or even.
 
 Usage:
 
