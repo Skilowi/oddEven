@@ -9,4 +9,4 @@ x = 2
 print(oddEven(x))
 ```
 
-Function will return string "odd" or "even" depending on number you input. Range of function is from 1 to 50000000
+Function will return string "odd" or "even" depending on number you input. Range of function is from 1 to 2000000
